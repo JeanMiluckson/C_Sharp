@@ -2,7 +2,7 @@
 C# in Engine 3D
 
 
-Using for | Aplication
+*Using for* | *Aplication*
 ---|---|
-Games | Unity
-Games | Godot
+**Games** | **Unity**
+**Games** | **Godot**
