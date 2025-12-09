@@ -1,16 +1,10 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch",
-            "type": "lldb",
+            "name": "C#: Debug Active File-Based App",
+            "type": "dotnet",
             "request": "launch",
-            "program": "${workspaceRoot}/<your program>",
-            "args": [],
-            "cwd": "${workspaceRoot}"
+            "projectPath": "${file}"
         }
     ]
 }
