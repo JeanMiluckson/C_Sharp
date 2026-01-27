@@ -1,0 +1,15 @@
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\bin\Debug\net10.0\Projeto01.exe
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\bin\Debug\net10.0\Projeto01.deps.json
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\bin\Debug\net10.0\Projeto01.runtimeconfig.json
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\bin\Debug\net10.0\Projeto01.dll
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\bin\Debug\net10.0\Projeto01.pdb
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\obj\Debug\net10.0\Projeto01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\obj\Debug\net10.0\Projeto01.AssemblyInfoInputs.cache
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\obj\Debug\net10.0\Projeto01.AssemblyInfo.cs
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\obj\Debug\net10.0\Projeto01.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\obj\Debug\net10.0\Projeto01.sourcelink.json
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\obj\Debug\net10.0\Projeto01.dll
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\obj\Debug\net10.0\refint\Projeto01.dll
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\obj\Debug\net10.0\Projeto01.pdb
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\obj\Debug\net10.0\Projeto01.genruntimeconfig.cache
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Projeto01\obj\Debug\net10.0\ref\Projeto01.dll
