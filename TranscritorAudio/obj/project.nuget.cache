@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "TfFls5wqpFQ=",
+  "dgSpecHash": "NKR/X8Niel8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeanm\\OneDrive\\Documentos\\GitHub\\C_Sharp\\TranscritorAudio\\TranscritorAudio.csproj",
+  "projectFilePath": "/home/jeanetienne/Documents/GitHub/C_Sharp/TranscritorAudio/TranscritorAudio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jeanm\\.nuget\\packages\\naudio\\2.2.1\\naudio.2.2.1.nupkg.sha512",
-    "C:\\Users\\jeanm\\.nuget\\packages\\naudio.asio\\2.2.1\\naudio.asio.2.2.1.nupkg.sha512",
-    "C:\\Users\\jeanm\\.nuget\\packages\\naudio.core\\2.2.1\\naudio.core.2.2.1.nupkg.sha512",
-    "C:\\Users\\jeanm\\.nuget\\packages\\naudio.midi\\2.2.1\\naudio.midi.2.2.1.nupkg.sha512",
-    "C:\\Users\\jeanm\\.nuget\\packages\\naudio.wasapi\\2.2.1\\naudio.wasapi.2.2.1.nupkg.sha512",
-    "C:\\Users\\jeanm\\.nuget\\packages\\naudio.winmm\\2.2.1\\naudio.winmm.2.2.1.nupkg.sha512",
-    "C:\\Users\\jeanm\\.nuget\\packages\\vosk\\0.3.38\\vosk.0.3.38.nupkg.sha512"
+    "/home/jeanetienne/.nuget/packages/naudio/2.2.1/naudio.2.2.1.nupkg.sha512",
+    "/home/jeanetienne/.nuget/packages/naudio.asio/2.2.1/naudio.asio.2.2.1.nupkg.sha512",
+    "/home/jeanetienne/.nuget/packages/naudio.core/2.2.1/naudio.core.2.2.1.nupkg.sha512",
+    "/home/jeanetienne/.nuget/packages/naudio.midi/2.2.1/naudio.midi.2.2.1.nupkg.sha512",
+    "/home/jeanetienne/.nuget/packages/naudio.wasapi/2.2.1/naudio.wasapi.2.2.1.nupkg.sha512",
+    "/home/jeanetienne/.nuget/packages/naudio.winmm/2.2.1/naudio.winmm.2.2.1.nupkg.sha512",
+    "/home/jeanetienne/.nuget/packages/vosk/0.3.38/vosk.0.3.38.nupkg.sha512"
   ],
   "logs": []
 }
