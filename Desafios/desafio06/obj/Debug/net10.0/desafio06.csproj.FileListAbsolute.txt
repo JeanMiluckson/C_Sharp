@@ -1,0 +1,15 @@
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\obj\Debug\net10.0\desafio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\obj\Debug\net10.0\desafio06.AssemblyInfoInputs.cache
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\obj\Debug\net10.0\desafio06.AssemblyInfo.cs
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\obj\Debug\net10.0\desafio06.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\obj\Debug\net10.0\desafio06.sourcelink.json
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\bin\Debug\net10.0\desafio06.exe
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\bin\Debug\net10.0\desafio06.deps.json
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\bin\Debug\net10.0\desafio06.runtimeconfig.json
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\bin\Debug\net10.0\desafio06.dll
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\bin\Debug\net10.0\desafio06.pdb
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\obj\Debug\net10.0\desafio06.dll
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\obj\Debug\net10.0\refint\desafio06.dll
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\obj\Debug\net10.0\desafio06.pdb
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\obj\Debug\net10.0\desafio06.genruntimeconfig.cache
+C:\Users\jeanm\OneDrive\Documentos\GitHub\C_Sharp\Desafios\desafio06\obj\Debug\net10.0\ref\desafio06.dll
